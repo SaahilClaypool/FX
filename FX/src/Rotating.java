@@ -10,6 +10,7 @@ public class Rotating {
         this.draw = draw;
         centerX = 50;
         centerY = 50;
+        // test comment
     }
 
 }
